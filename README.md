@@ -1,4 +1,4 @@
-<h1 align=center>AGRODE</h1>
+<h1 align=center>:sunny: AGRODE</h1>
 
 AGRODE aims to utilise various data analysis and visualisation techniques for explaining whether the current geographical, political, and logical scenarios 
 would benefit North Germany from the use of Agrivoltaics or not. The states that come under the umbrella term of North Germany are **Bremen**, **Hamburg**, 
@@ -7,8 +7,7 @@ would benefit North Germany from the use of Agrivoltaics or not. The states that
 ## What is Agrivoltaics?
 
 It simply means that we use the same piece of land for farming and solar panel installations. Various researches have shown that by doing this, we can improve 
-the land productivity by nearly twofolds. However, there is a slight caveat of crop selection that can be paired with solar panels. Only shade tolerant crops
-like wheat, lettuce, potatoes, etc. can be used for agrivoltaics.
+the land productivity by nearly twofolds. However, there is a slight caveat of crop selection that can be paired with solar panels. Only shade tolerant crops like **wheat**, **lettuce**, **potatoes**, etc. can be used for agrivoltaics.
 
 ![agro](https://metsolar.eu/blog/wp-content/uploads/2018/04/3-1.jpg)
 
@@ -18,7 +17,7 @@ like wheat, lettuce, potatoes, etc. can be used for agrivoltaics.
 * [Taxation Rates](https://www.dihk.de/de/themen-und-positionen/wirtschaftspolitik/steuer-und-finanzpolitik/hebesaetze-56878) - used for obtaining tax data for 
 PV installations in different districts
 
-## Bried Description
+## Brief Description
 
 * SECTION 1 - Data Cleaning
 > The data was loaded into pandas dataframes. The column names were translated from German to English for better understanding using Google's translator
@@ -34,7 +33,7 @@ and net output by different orientations.
 
 * SECTION 3 - Energy Source Analysis
 > This section utilises some bar graphs to show the different sources of energy that fuel North Germany. It also shows the distribution of solar panel 
-orientations throughout different states. And also shows us how solar energy compared to the other sources of energy in North Germany.
+orientations throughout different states. And also shows us how solar energy performs in comparison to other sources of energy in North Germany.
 
 * SECTION 4 - Geospatial Analysis
 > I have used geopandas and contexily here to generate geospatial plots of North Germany in various scenarios. We can see the distribution of freeland solar installations in different states at night, by geographical terrain, and plant size of installation.
